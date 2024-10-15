@@ -1,0 +1,2 @@
+chmod -R a+X permissions#!/bin/bash
+chmod -R 111 permissions
