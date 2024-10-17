@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -name "*.gif" | sort -f -k 1.8,1.11 | printf "\n"
